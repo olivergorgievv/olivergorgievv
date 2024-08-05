@@ -1,1 +1,1 @@
-# olivergorgievv-
+Product Designer, Frontend Dev, Typescript
