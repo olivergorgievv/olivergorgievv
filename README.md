@@ -1,1 +1,1 @@
-Product Designer, Frontend Dev, Typescript
+Product Designer, Frontend Dev
