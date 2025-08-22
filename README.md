@@ -1,1 +1,1 @@
-Product Designer, Frontend Dev
+blockchain, frontend, design
